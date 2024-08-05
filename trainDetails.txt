@@ -1,0 +1,24 @@
+12301,Rajdhani Express,15-01-2023 10:05:10
+12555,Gatimaan Express,15-01-2023 11:05:10
+12627,Karnataka Express,15-01-2023 12:05:20
+12951,Mumbai Rajdhani,15-01-2023 13:05:20
+12802,New Delhi Duronto,15-01-2023 14:05:15
+12002,Bhopal Shatabdi,15-01-2023 15:05:15
+12321,Howrah Mail,15-01-2023 16:05:15
+12607,Lalbagh Express,15-01-2023 17:05:05
+12202,Kochuveli - Lokmanya Tilak Terminus Garib Rath,15-01-2023 18:05:15
+12723,Andhra Pradesh Express,15-01-2023 19:05:15
+20643,Vande Bharat,15-01-2023 14:05:15
+12623,Trivandrum Express,15-01-2023 19:45:10
+22639,Allapey Express,15-01-2023 20:55:10
+13351,Azhapuzha Express,15-01-2023 23:15:10
+12354,Kanyakumari Express,15-01-2023 17:20:20
+12635,Vaigai SF EXP,15-01-2023 13:50:20
+12641,Tirukkural Express,15-01-2023 19:10:05
+12637,Pandian SF EXP,15-01-2023 21:40:05
+12674,Cheran SF EXP,15-01-2023 22:50:05
+12680,MAS Intercity,15-01-2023 06:20:05
+12325,Vaigai SF Express,15-01-2023 21:30:15
+17453,Pandian SF Express,15-01-2023 05:25:10
+19783,Chennai Express,15-01-2023 08:25:11
+16421,Tirukkural Express,15-01-2023 05:35:15

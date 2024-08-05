@@ -1,0 +1,24 @@
+a-19:05-0,City Junction-20:30-320,b-22:45-500
+Suburban Point-20:15-0,Riverside Junction-22:00-350,Downtown Terminal-23:30-500
+Harbor Junction-21:30-0,a-23:15-300,b-01:00-450
+Mountain Gateway-22:45-0,Lakeside Junction-00:30-350,Greenfield Terminal-02:15-500
+Harbor Junction-23:00-0,Central Station-01:00-320,Riverside Junction-03:15-500
+a-00:15-0,Metro Hub-02:00-320,b-04:15-500
+Downtown Terminal-01:30-0,Valley Hub-03:15-320,Skyline Station-05:30-500
+Mountain Gateway-02:45-0,Lakeside Junction-04:30-320,Greenfield Terminal-06:45-500
+Harbor Junction-04:00-0,Central Station-05:45-320,City Junction-08:00-500
+a-05:15-0,b-07:00-320,Metro Hub-09:15-500
+chennai-14:15-0,salem-17:48-334,erode-18:37-400,tiruppur-19:18-446,coimbatore-20:15-497
+chennai-19:45-0,katpadi-21:28-130,salem-00:07-334,erode-01:05-400,coimbatore-02:37-497,palakkad-03:52-537,thrisur-05:22-600,ernakulam-06:36-700,kottayam-07:52-762,kollam-09:53-858,trivandrum-10:49-952
+chennai-20:55-0,katpadi-22:48-130,salem-01:32-334,erode-02:30-400,tiruppur-03:18-446,coimbatore-04:13-497,palakkad-05:37-537,thrisur-06:40-600,ernakulam-08:36-700,allapey-10:49-749
+chennai-23:15-0,katpadi-01:48-130,salem-05:32-334,erode-06:40-400,tiruppur-07:28-446,coimbatore-08:13-497,palakkad-10:05-537,thrisur-11:10-600,ernakulam-12:36-700,allapey-15:29-749
+chennai-17:20-0,tambaram-17:48-25,chengalpattu-18:18-56,villupuram-19:55-159,tiruchirapalli-22:25-336,dindigul-23:37-431,madurai-00:55-497,virudunagar-01:35-540,tirunelveli-03:20-653,nagercoil-04:55-727,kanyakumari-05:35-742
+chennai-13:50-0,chengalpattu-14:48-56,villupuram-16:05-159,tiruchirapalli-18:55-336,dindigul-20:07-431,madurai-21:30-497
+kanyakumari-19:10-0,nagercoil-19:30-16,tirunelveli-21:45-89,virudunagar-23:23-203,madurai-00:50-246,dindigul-01:50-312,tiruchirapalli-03:04-406,villupuram-05:40-584,chengalpattu-07:08-687,tambaram-07:37-717,chennai-08:25-742
+chennai-21:40-0,chengalpattu-22:40-56,villupuram-00:05-159,tiruchirapalli-02:45-336,dindigul-03:52-431,madurai-05:25-497
+coimbatore-22:50-0,tiruppur-23:33-51,erode-00:20-101,salem-01:17-164,arakkonam-05:18-428,chennai-07:00-497
+coimbatore-06:20-0,tiruppur-07:07-51,erode-07:45-101,salem-08:42-164,ambur-10:53-315,arakkonam-12:28-428,chennai-13:50-497
+madurai-21:30-0,dindigul-22:53-66,tiruchirapalli-00:20-160,villupuram-03:10-495,chengalpattu-05:25-552,chennai-06:23-617
+madurai-05:25-0,dindigul-06:58-74,tiruchirapalli-08:05-169,villupuram-10:55-504,chengalpattu-13:10-561,chennai-14:08-626
+chennai-08:25-0,tambaram-08:42-25,chengalpattu-09:12-45,villupuram-10:40-142,tiruchirapalli-13:16-336,dindigul-14:30-430,madurai-15:30-473,virudunagar-16:57-587,tirunelveli-18:35-702,nagercoil-20:48-726,kanyakumari-21:10-736
+kanyakumari-05:35-0,nagercoil-06:15-15,tirunelveli-07:50-89,virudunagar-09:35-202,madurai-10:15-256,dindigul-11:27-351,tiruchirapalli-12:45-536,villupuram-15:15-713,chengalpattu-16:52-870,tambaram-17:22-900,chennai-17:50-925
